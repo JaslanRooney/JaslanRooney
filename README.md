@@ -1,4 +1,8 @@
-### Hi there 👋
+# Full Stack Developer
+
+## Node.js, Express, Ejs, JS, SQL & NoSQL, and more.
+
+ 
 
 <!--
 **JaslanRooney/JaslanRooney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
