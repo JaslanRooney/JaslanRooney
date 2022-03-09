@@ -1,6 +1,6 @@
-# Full Stack Developer
+# Backend Dev || Fullstack Dev
 
-## Node.js, Express, Ejs, JS, SQL & NoSQL, and more.
+## Node.js, Express, Ejs, JS, SQL & MongoDB, Mongoose and more.
 
  
 
