@@ -1,8 +1,10 @@
 # Backend Dev || Fullstack Dev
 
 ## Node.js - Express - EJS - JS - SQL - MongoDB - Mongoose
-
+ link below-learned a lot building and deploying this with Colt Steele
  https://vast-bastion-57693.herokuapp.com/
+ say hi on twitter
+ https://twitter.com/JaslanRooney
 
 <!--
 **JaslanRooney/JaslanRooney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
