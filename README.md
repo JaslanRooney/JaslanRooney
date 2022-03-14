@@ -6,7 +6,7 @@
  say hi on twitter
  https://twitter.com/JaslanRooney
 
- http://127.0.0.1:5500/
+ 
 
 
 <!--
