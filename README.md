@@ -1,7 +1,7 @@
 # Backend Dev || Fullstack Dev
 
 ## Node.js - Express - EJS - JS - SQL - MongoDB - Mongoose
- learned a lot building and deploying this with Colt Steele  https://vast-bastion-57693.herokuapp.com/
+ learned a lot building and deploying this https://vast-bastion-57693.herokuapp.com/
  
  say hi on twitter
  https://twitter.com/JaslanRooney
