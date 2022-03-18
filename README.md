@@ -3,7 +3,8 @@
 ## Node.js - Express - React - EJS - JS - SQL - MongoDB - Mongoose
  Recent project https://vast-bastion-57693.herokuapp.com/
  
- Check out my live app https://crypto-app-tracker-react.herokuapp.com/
+ 
+Check out my live app https://crypto-app-tracker-react.herokuapp.com/
  
  say hi on twitter
  https://twitter.com/JaslanRooney
