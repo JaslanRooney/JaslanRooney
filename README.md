@@ -1,6 +1,6 @@
 ## Hi there, my name is Jaslan
 
-# I'm a Small Business Owner turned Software Engineer.  My background running a flooring installation company cultivated my desire and ability to problem solve and led me to the wonderful world of Coding!  
+ I'm a Small Business Owner turned Software Engineer.  My background running a flooring installation company cultivated my desire and ability to problem solve and led me to the wonderful world of Coding!  
 
  - 🌱 I'm based in Los Angeles, CA
   
@@ -24,7 +24,8 @@ Check out my live app https://crypto-app-tracker-react.herokuapp.com/
  https://twitter.com/JaslanRooney
 
  
-
+## My GitHub Stats
+<div><a href="http://www.github.com/JaslanRooney"><img src="https://github-readme-stats.vercel.app/api?username=JaslanRooney&show_icons=true&hide=&count_private=true&title_color=6E6F71&text_color=6E6F71&icon_color=F3C766&bg_color=ffffff&hide_border=false&show_icons=true" alt="JaslanRooney's GitHub stats" /></a></div>
 
 <!--
 **JaslanRooney/JaslanRooney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
