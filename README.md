@@ -21,15 +21,15 @@
  
 
  
+## My GitHub Stats
+<div><a href="http://www.github.com/JaslanRooney"><img src="https://github-readme-stats.vercel.app/api?username=JaslanRooney&show_icons=true&hide=&count_private=true&title_color=6E6F71&text_color=6E6F71&icon_color=F3C766&bg_color=ffffff&hide_border=false&show_icons=true" alt="JaslanRooney's GitHub stats" /></a></div>
+
+
+
  ## Connect with me!
 <p align="left">
 <a href="https://www.github.com/lyn-kim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/JaslanRooney" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
  
- 
-
- 
-## My GitHub Stats
-<div><a href="http://www.github.com/JaslanRooney"><img src="https://github-readme-stats.vercel.app/api?username=JaslanRooney&show_icons=true&hide=&count_private=true&title_color=6E6F71&text_color=6E6F71&icon_color=F3C766&bg_color=ffffff&hide_border=false&show_icons=true" alt="JaslanRooney's GitHub stats" /></a></div>
 
 <!--
 **JaslanRooney/JaslanRooney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
