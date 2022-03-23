@@ -2,14 +2,11 @@
 
 # I'm a Small Business Owner turned Software Engineer.  My background running a flooring installation company cultivated my desire and ability to problem solve and led me to the wonderful world of Coding!  
 
-![icons8-location-50](https://user-images.githubusercontent.com/100104898/159618320-f8b229e1-db16-40fd-92dd-d59e8cb59044.png)  I'm based in Los Angeles, CA
+ - 🌱 I'm based in Los Angeles, CA
+  
+ - 🔭 Constantly improving my skills in the MERN stack
 
 
-
-
-# Backend Dev || Fullstack Dev
-
-## Node.js - Express - React - EJS - JS - SQL - MongoDB - Mongoose
  Recent project https://vast-bastion-57693.herokuapp.com/
  
  
