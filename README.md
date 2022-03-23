@@ -1,3 +1,10 @@
+### Hi there, my name is Jaslan
+
+## I'm a Small Business Owner turned Software Engineer.  My background running a flooring installation company cultivated my desire and ability to problem solve and led me to the wonderful world of Coding!  
+
+
+
+
 # Backend Dev || Fullstack Dev
 
 ## Node.js - Express - React - EJS - JS - SQL - MongoDB - Mongoose
