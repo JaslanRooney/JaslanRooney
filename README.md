@@ -1,10 +1,11 @@
 ## Hi there, my name is Jaslan
 
- I'm a Small Business Owner turned Software Engineer.  My background running a flooring installation company cultivated my desire and ability to problem solve and led me to the wonderful world of Coding!  
+ I'm a Small Business Owner turned Software Engineer.  My background running a flooring installation company cultivated my desire and ability to problem solve and led me to the wonderful world of Web DEvelopement!  
 
- - 🌱 I'm based in Los Angeles, CA
-  
- - 🔭 Constantly improving my skills in the MERN stack
+*   🌲  I'm based in Los Angeles, CA
+*   📚  Constantly improving my skills in the MERN stack
+*   ✏️  Always learning, always building
+*   🌎  Enjoying the community of Devs I've found along the way
 
 
 ## Languages and Tools
@@ -19,7 +20,7 @@
  
  
 Check out my live app https://crypto-app-tracker-react.herokuapp.com/
- # Connect with me!
+ ## Connect with me!
 <p align="left">
 <a href="https://www.github.com/lyn-kim" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/JaslanRooney" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
  
