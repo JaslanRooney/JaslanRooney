@@ -1,6 +1,6 @@
 ## Hi there, my name is Jaslan
 
- I'm a Small Business Owner turned Software Engineer.  My background running a flooring installation company cultivated my desire and ability to problem solve and led me to the wonderful world of Web Developement!  
+ I'm a General Contractor turned Software Engineer.  My background running a flooring installation company cultivated my desire and ability to problem solve and led me to the wonderful world of Web Developement!  
 
 *   🌲  I'm based in Los Angeles, CA
 *   📚  Constantly improving my skills in the MERN stack
