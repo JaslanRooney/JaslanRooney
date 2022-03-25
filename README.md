@@ -6,7 +6,7 @@
 *   📚  Constantly improving my skills 
 *   ✏️  Always learning, always building
 *   🌎  Enjoying the community of Devs I've found along the way
-*   ✏️  Next.js project https://ninjalist-mocha.vercel.app/
+*   ✏️  Next.js project https://ninjalist-jaslanrooney.vercel.app/
 *   🌲  Recent project https://vast-bastion-57693.herokuapp.com/
 *   ☀️  Recent app build https://crypto-app-tracker-react.herokuapp.com/
 *   ⚡  Life is a gift, let's celebrate it!
