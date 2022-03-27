@@ -23,9 +23,6 @@
  
  
 
- 
-## My GitHub Stats
-<div><a href="http://www.github.com/JaslanRooney"><img src="https://github-readme-stats.vercel.app/api?username=JaslanRooney&show_icons=true&hide=&count_private=true&title_color=6E6F71&text_color=6E6F71&icon_color=F3C766&bg_color=ffffff&hide_border=false&show_icons=true" alt="JaslanRooney's GitHub stats" /></a></div>
 
 
 
