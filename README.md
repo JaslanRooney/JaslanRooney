@@ -1,7 +1,7 @@
 ## Hi there, my name is Jaslan                     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
 
 
- I'm a General Contractor turned Software Engineer.  My background running a flooring installation company cultivated my desire and ability to problem solve and led me to the wonderful world of Web Developement!  
+ I'm a General Contractor turned Software Engineer.  My background running a flooring installation company cultivated my desire to build things and an ability to problem solve which led me to the wonderful world of Web Developement/Software Engineering!  
 
 *   🌲  I'm based in Los Angeles, CA
 *   📚  Constantly improving my skills 
